@@ -17,7 +17,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoFernandesUA&repo=ac1&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
   </a>
    <a href="https://github.com/EduardoFernandesUA/POO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoFernandesUA&repo=Lil-projects&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoFernandesUA&repo=POO&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
   </a>
     
 </div>

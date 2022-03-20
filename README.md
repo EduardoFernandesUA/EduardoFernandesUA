@@ -8,13 +8,13 @@
 
 <div>
   <a href="https://github.com/EduardoFernandesUA/EduBot21">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoFernandesUA&repo=Ano1-ECT&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoFernandesUA&repo=EduBot21&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
   </a>
   <a href="https://github.com/EduardoFernandesUA/prog2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoFernandesUA&repo=Ano2-ECT&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoFernandesUA&repo=prog2&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
   </a>
   <a href="https://github.com/EduardoFernandesUA/ac1">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoFernandesUA&repo=MyDiscordBot&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoFernandesUA&repo=ac1&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>
   </a>
    <a href="https://github.com/EduardoFernandesUA/POO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoFernandesUA&repo=Lil-projects&theme=dark&icon_color=FFFFFF&title_color=34d2eb&border_color=34d2eb&text_color=ffffff&show_owner=true"/>

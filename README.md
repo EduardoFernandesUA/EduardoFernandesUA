@@ -2,7 +2,7 @@
 
 
 
-<img width="54%" align="left" src="https://github-readme-stats.vercel.app/api?username=eduardofernandesua&show_icons=true&locale=en&theme=dark" alt="eduardofernandesua" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=eduardofernandesua&show_icons=true&locale=en&theme=dark" alt="eduardofernandesua" />
 <img width="44%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardofernandesua&show_icons=true&locale=en&layout=compact&theme=dark" alt="eduardofernandesua" />
 
 <h3 align="left">Connect with me:</h3>
